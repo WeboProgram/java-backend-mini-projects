@@ -1,0 +1,2 @@
+# java-backend-mini-projects
+Collection of small Java backend projects focused on logic building, clean structure, and real-world problem solving.
